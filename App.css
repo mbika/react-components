@@ -1,0 +1,15 @@
+.card {
+    width: 300px;
+    box-shadow: 0 0 10px black;
+    text-decoration: none;
+    margin: 12px;
+    padding: 10px;
+    border-radius: 12px;
+    background: linear-gradient(45deg,cornflowlerblue,pink);
+    background-color: darkolivegreen;
+}
+
+.card-body h3 {
+    font-size: 20px;
+}
+
